@@ -1,0 +1,15 @@
+p {
+    font-size: 18px;
+}
+
+.bus li {
+    font-size: 20px;
+}
+
+.hotels li {
+    font-size: 24px;
+}
+
+.hotels li a {
+    color: green;
+}
